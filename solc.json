@@ -1,0 +1,12 @@
+{
+  "outputSelection": {
+    "*": {
+      "*": [
+        "abi",
+        "devdoc",
+        "userdoc",
+        "evm.bytecode"
+      ]
+    }
+  }
+}
