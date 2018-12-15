@@ -5,7 +5,7 @@ import './IToken.sol';
 contract Token is IToken {
   string public name = 'Membrana';
   string public symbol = 'MBN';
-  uint8 public decimals = 18;
+  uint8 public decimals = 0;
   address public controller;
   bool public isReleased;
 
